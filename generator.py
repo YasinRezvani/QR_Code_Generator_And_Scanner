@@ -6,4 +6,6 @@ path = input("Enter the location to save QR Code(example --> C:/Users/yasin/Docu
 name = input("Enter Name for QR Code: ") 
 img.save(path +'/'+ name + '.png')
 
+print("-- Your QR Code generated successfully in this Path --> (%s) --" %(path))
+
 # Made By Yasin Rezvani
