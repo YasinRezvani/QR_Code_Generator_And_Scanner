@@ -11,4 +11,6 @@ print("\n-- Your QR Code generated successfully in this Path --> (%s) --\n" %(pa
 
 print("------------------------------------------------------")
 
+input()
+
 # Made By Yasin Rezvani
