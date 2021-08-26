@@ -1,5 +1,10 @@
 # QR_Code_Generator_And_Scanner
 The simple app to generate and scan the qrcode 
+# Install the requirements
+First you should install the requirements:
+```
+$ pip install qrcode pillow pyzbar
+```
 # How Work
 ### generate QR Code
 ##### Go to file generator.py and fill (Enter your data for put to QR Code:) for example: 
