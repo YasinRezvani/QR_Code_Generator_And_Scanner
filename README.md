@@ -1,5 +1,5 @@
 # QR_Code_Generator_And_Scanner
-The simple app to generate and scan the qrcode 
+The simple CLI app to generate and scan the qrcode 
 # Install the requirements
 First you should install the requirements:
 ```
