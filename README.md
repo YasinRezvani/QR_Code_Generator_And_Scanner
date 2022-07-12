@@ -3,7 +3,7 @@ The simple CLI app to generate and scan the qrcode
 # Install the requirements
 First you should install the requirements:
 ```
-$ pip install qrcode pillow pyzbar
+pip install qrcode pillow pyzbar
 ```
 # Demo 🎉
 ### Generator
